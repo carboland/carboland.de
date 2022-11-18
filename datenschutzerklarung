@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style>.dismissButton{background-color:#fff;border:1px solid #dadce0;color:#1a73e8;border-radius:4px;font-family:Roboto,sans-serif;font-size:14px;height:36px;cursor:pointer;padding:0 24px}.dismissButton:hover{background-color:rgba(66,133,244,0.04);border:1px solid #d2e3fc}.dismissButton:focus{background-color:rgba(66,133,244,0.12);border:1px solid #d2e3fc;outline:0}.dismissButton:hover:focus{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd}.dismissButton:active{background-color:rgba(66,133,244,0.16);border:1px solid #d2e2fd;box-shadow:0 1px 2px 0 rgba(60,64,67,0.3),0 1px 3px 1px rgba(60,64,67,0.15)}.dismissButton:disabled{background-color:#fff;border:1px solid #f1f3f4;color:#3c4043}
+</style><style>.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}
+</style><style>.gm-control-active>img{box-sizing:content-box;display:none;left:50%;pointer-events:none;position:absolute;top:50%;transform:translate(-50%,-50%)}.gm-control-active>img:nth-child(1){display:block}.gm-control-active:hover>img:nth-child(1),.gm-control-active:active>img:nth-child(1){display:none}.gm-control-active:hover>img:nth-child(2),.gm-control-active:active>img:nth-child(3){display:block}
+</style><link type="text/css" rel="stylesheet" href="./Carboland/css"><style>.gm-ui-hover-effect{opacity:.6}.gm-ui-hover-effect:hover{opacity:1}
+</style><style>.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px;box-sizing:border-box}
+</style><style>@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style>.gm-style-pbc{transition:opacity ease-in-out;background-color:rgba(0,0,0,0.45);text-align:center}.gm-style-pbt{font-size:22px;color:white;font-family:Roboto,Arial,sans-serif;position:relative;margin:0;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%)}
+</style><style>.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}</style>
+<title>Schutz von personenbezogenen Daten | GDPR</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="keywords" content="Carboland, Carboland s.r.o., Carboland Company, Carboland, Kohlefaser, Kohleproduktion, Kohleproduktion, Faser, Kohlefaser, Kohle, Kohleprodukte, Kohleprodukte, Kohlearbeit, Kohlefaser, Verbundwerkstoff, Kevlar, Aramid, Vakuuminfusion, carboland.cz, Carboland CZ, Carboland Produktion, Carboland sro, Tschechien, Carbon Produktion in Tschechien, Carbon Fiber Tschechien, Produktion in Tschechien, Produktion, Carbon, Carbon designed for you, high Beständigkeit, Produkthaltbarkeit, Kohlenstoffbeständigkeit" />
+<meta name="distribution" content="global" />
+<meta name="application-name" content="Schutz von personenbezogenen Daten | GDPR" />
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow, snippet, archive" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="viewport" content="width=device-width" />
+<meta name="publisher" content="Carboland s.r.o." />
+<meta name="og:phone_number" content="+420 732 272 375" />
+<meta name="og:email" content="info@carboland.de" />
+<meta name="subject" content="Carboland s.r.o." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Schutz von personenbezogenen Daten | GDPR" />
+<meta name="twitter:image:src" content="https://www.carboland.de/Carboland/Carboland.jpg" />
+<meta name="coverage" content="Deutschland" />
+<meta property="og:title" content="Schutz von personenbezogenen Daten | GDPR" />
+<meta property="og:url" content="https://www.carboland.de/datenschutzerklarung" />
+<meta property="og:site_name" content="Carboland s.r.o. | Eleganz in jeder Faser." />
+<meta property="og:type" content="website" />
+<meta property="article:tag" content="Carboland, Carboland s.r.o., Carboland Company, Carboland, Kohlefaser, Kohleproduktion, Kohleproduktion, Faser, Kohlefaser, Kohle, Kohleprodukte, Kohleprodukte, Kohlearbeit, Kohlefaser, Verbundwerkstoff, Kevlar, Aramid, Vakuuminfusion, carboland.cz, Carboland CZ, Carboland Produktion, Carboland sro, Tschechien, Carbon Produktion in Tschechien, Carbon Fiber Tschechien, Produktion in Tschechien, Produktion, Carbon, Carbon designed for you, high Beständigkeit, Produkthaltbarkeit, Kohlenstoffbeständigkeit" />
+<meta property="og:image" content="https://www.carboland.de/Carboland/Carboland.jpg" />
+<meta property="og:latitude" content="49.14654840589657" />
+<meta property="og:longitude" content="17.82768260268157" />
+<meta property="og:street-address" content="Sehradice 217" />
+<meta property="og:locality" content="Sehradice" />
+<meta property="og:postal-code" content="763 23" />
+<meta property="og:country-name" content="Tschechische Republik" />
+<link rel="icon" href="./Carboland/favicon.png" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="./Carboland/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/menu.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/style2.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/style1.css" id="colors" />
+<link rel="stylesheet" type="text/css" href="./Carboland/animation.css" />
+<link rel="stylesheet" type="text/css" href="./Carboland/owl.carousel.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="canonical" href="https://www.carboland.de/datenschutzerklarung" />
+<link rel="alternate" href="https://www.carboland.cz/ochrana-osobnich-udaju" hreflang="cs-cz" />
+<link rel="alternate" href="https://www.carboland.de/datenschutzerklarung" hreflang="de-de" />
+<link rel="alternate" href="https://www.carboland.at/datenschutzerklarung" hreflang="de-at" />
+<link rel="alternate" href="https://www.carboland.eu/privacy-policy" hreflang="en-gb" />
+<link rel="alternate" href="https://www.carboland.ru/bezopasnost-i-garantiya-konfidentsialnosti" hreflang="ru-ru" />
+<link rel="alternate" href="https://www.carboland.sk/ochrana-osobnych-udajov" hreflang="sk-sk" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EE4MKDVKYQ"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-EE4MKDVKYQ');
+</script>
+</head>
+<body oncopy="return false" oncut="return false" oncontextmenu="return false">
+<script type="text/javascript">
+var cpm = {};
+(function(h,u,b){
+var d=h.getElementsByTagName("script")[0],e=h.createElement("script");
+e.async=true;e.src='./Carboland/cookie-consent.js';
+e.onload=function(){u.cookiehub.load(b);};
+d.parentNode.insertBefore(e,d);
+})(document,window,cpm);
+</script>
+<div class="loder" style="display: none;">
+<div class="cssload-container">
+<div class="cssload-circle-1">
+<div class="cssload-circle-2">
+<div class="cssload-circle-3">
+<div class="cssload-circle-4">
+<div class="cssload-circle-5">
+<div class="cssload-circle-6">
+<div class="cssload-circle-7">
+<div class="cssload-circle-8">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="wrapper">
+<header id="header" style="background: rgba(0, 0, 0, 0); padding: 20px 0px;">
+<div class="header navbar">
+<div class="container-fluid">
+<div id="navbarCollapse" class="navbar-collapse navbar-right">
+<!-- Menu Nav !-->
+</div>
+</div>
+</div>
+</header>
+<section id="datenschutzerklarung" class="ptb_100">
+<div class="about">
+<div class="container">
+<div class="about-inner">
+<div class="row">
+<div class="col-md-7">
+<div class="about-text">
+<div class="about-heading-wrap">
+<br/>
+<h2 class="about-heading mb_40 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">GDPR</h2>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Datenschutzbestimmungen</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;"><a href="https://or.justice.cz/ias/ui/rejstrik-firma.vysledky?subjektId=1002958&typ=UPLNY" target="_blank">Carboland s.r.o.</a>, Aktenzeichen: C 104458 Bezirksgericht in Brünn, IČO: 06818137, DIČ: CZ06818137, mit Sitz in <a href="https://www.google.de/maps/place/Sehradice+217,+763+23+Sehradice/@49.1465221,17.8254644,17z/data=!3m1!4b1!4m5!3m4!1s0x4713706cec52a5b3:0xaff658778cd89a17!8m2!3d49.1465186!4d17.8276531" target="_blank">Sehradice 217, 763 23 Sehradice, Tschechische Republik</a>, Betreiber der Website (im Folgenden als Verwaltung bezeichnet) <a href="https://www.carboland.de/">www.carboland.de</a>, erklärt, dass alle personenbezogenen Daten streng vertraulich behandelt und gemäß den geltenden gesetzlichen Bestimmungen zum Schutz personenbezogener Daten behandelt werden.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Die Sicherheit Ihrer personenbezogenen Daten hat für uns Priorität. Wir achten daher auf personenbezogene Daten und deren Schutz. In dieser Datenschutzerklärung finden Sie Informationen darüber, welche personenbezogenen Daten wir über Sie sammeln, wofür wir sie verwenden, wie lange wir sie aufbewahren und an wen wir sie weitergeben können. In der Datenschutzerklärung informieren wir Sie auch über Ihre Rechte im Zusammenhang mit der Verarbeitung Ihrer personenbezogenen Daten.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Die Verwaltung der Website <a href="https://www.carboland.de/" target="_blank">www.carboland.de</a> verpflichtet sich, die Grundsätze zum Schutz Ihrer personenbezogenen Daten im Internet einzuhalten. Wir legen großen Wert auf den Schutz der bereitgestellten Daten. Unsere Datenschutzerklärung basiert auf <a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_de" target="_blank">Datenschutz-Grundverordnung der Europäischen Union (GDPR)</a>. Die Zwecke, für die wir personenbezogene Daten erheben, sind: um unsere Dienstleistungen zu verbessern, mit den Besuchern dieser Website zu kommunizieren, von Benutzern angeforderte Informationen bereitzustellen, um Dienstleistungen im Zusammenhang mit dem Schwerpunkt der Aktivität dieser Website zu erbringen, sowie für die folgenden Aktionen.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Erhebung und Verwendung personenbezogener Daten</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Wir erheben und verwenden personenbezogene Daten nur mit Ihrer freiwilligen Einwilligung. Wenn Sie damit einverstanden sind, erlauben Sie uns, die folgenden Informationen zu erheben und zu verwenden: Name und Nachname, E-Mail-Adresse, Telefonnummer. Die Erhebung und Verarbeitung Ihrer Daten erfolgt gemäß den im Gebiet der Europäischen Union und dem Staat der Tschechischen Republik geltenden Rechtsvorschriften.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Speichern, Bearbeiten und Löschen von Daten</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Der Benutzer, der seine persönlichen Daten auf der Website angegeben hat <a href="https://www.carboland.de/" target="_blank">www.carboland.de</a>, hat die Befugnis, sie weiterhin zu ändern und zu löschen sowie ihre Zustimmung zu ihrer Verwendung zu widerrufen. Zeit, für die Ihre persönlichen Daten gespeichert werden: Die Zeit, die benötigt wird, um die Daten für die Hauptaktivität der Website zu verwenden. Wenn Sie Ihre Daten nicht mehr verwenden, werden sie von der Website-Administration entfernt. Um auf Ihre persönlichen Daten zuzugreifen, können Sie sich unter der E-Mail-Adresse an die Website-Administration wenden: <a href="mailto:info@carboland.de">info@carboland.de</a>. Wir dürfen Ihre personenbezogenen Daten nur mit Ihrer freiwilligen Zustimmung an Dritte weitergeben. Wenn sie jedoch bereits übertragen wurden, können wir diese Daten nicht ändern, wenn sie bereits von anderen Organisationen bereitgestellt wurden, die nicht mit uns in Verbindung stehen.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Verwendung technischer Daten beim Besuch der Website</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Wenn Sie die Website besuchen <a href="https://www.carboland.de/" target="_blank">www.carboland.de</a>, In der Datenbank werden Aufzeichnungen Ihrer IP-Adresse, der Besuchszeit, der Browsereinstellungen, des Betriebssystems und anderer technischer Informationen gespeichert, die für die ordnungsgemäße Anzeige des Inhalts der Website erforderlich sind. Anhand dieser Informationen können wir jedoch die Identität des Besuchers nicht identifizieren.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Informationen von Kindern</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Wenn Sie Eltern oder Erziehungsberechtigte sind und feststellen, dass Ihre Kinder uns ihre persönlichen Daten ohne Ihre Zustimmung mitgeteilt haben, kontaktieren Sie uns bitte: <a href="mailto:info@carboland.de">info@carboland.de</a>. Unser Service verbietet die Speicherung personenbezogener Daten von Minderjährigen ohne Zustimmung der Eltern oder Erziehungsberechtigten.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Verwendung von Cookies</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Wenn Sie unsere Website <a href="https://www.carboland.at/" target="_blank">www.carboland.at</a> zum ersten Mal besuchen, sehen Sie ein Banner, das Sie vor der Verwendung von Cookies warnt, und eine Erklärung, was Cookies auf unserer Website <a href="https://www.carboland.at/" target="_blank">www.carboland.at</a> sind. In den Einstellungen haben Sie die Möglichkeit, die Verwendung von Cookies zuzulassen und auch abzulehnen. Sobald Sie auf „Ausgewählte bestätigen“ klicken, stimmen Sie der Verwendung der Cookie-Kategorien und Plugins zu, die Sie im Dropdown-Menü „Cookie-Einstellungen“ ausgewählt haben. Sie können die Verwendung von Cookies mit Ihrem Browser deaktivieren, aber denken Sie daran, dass unsere Website <a href="https://www.carboland.at/" target="_blank">www.carboland.at</a> möglicherweise nicht mehr richtig funktioniert.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Wir verwenden Cookies, um den Inhalt richtig anzuzeigen und die Nutzung der Website <a href="https://www.carboland.at/" target="_blank">www.carboland.at</a> zu erleichtern. Dies sind kleine Dateien, die auf Ihrem Gerät gespeichert werden. Diese Dateien helfen der Website, sich Informationen über Sie zu merken, z. B. in welcher Sprache Sie surfen und welche Seiten Sie bereits besucht haben, was für Ihren nächsten Besuch nützlich sein wird. Dank Cookies wird das Surfen auf der Website für Sie viel bequemer. Sie können <a href="https://de.wikipedia.org/wiki/HTTP-Cookie" target="_blank" style="color: white;">hier</a>. mehr über diese Dateien lesen. Sie können Ihren Browser so einstellen, dass Cookies in Ihrem Browser separat akzeptiert oder blockiert werden. Die Nichtannahme von Cookies kann jedoch die Leistung Ihrer Website beeinträchtigen.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;"><a href="cookie-richtlinie" target="_blank" style="color: white;"><strong>HIER</strong></a> können Sie mehr über die Verwendung von Cookies lesen.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Verwendung personenbezogener Daten durch andere Dienste</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Diese Website verwendet Internetdienste von Drittanbietern, die unabhängig von uns Informationen sammeln: Universal Analytics (Google Analytics), Google Tag Manager, Google Search Console, Bing Webmaster, Webmaster Seznam.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase; color: #fff;"><strong>Universal Analytics (Google Analytics)</strong></p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Diese Website verwendet Universal Analytics (Google Analytics) von Google, Inc. ("Google"). Universal Analytics (Google Analytics) verwendet „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die der Website helfen, die Benutzung der Website durch die Benutzer zu analysieren. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website (einschließlich Ihrer IP-Adresse) werden an einen Server von Google in den USA übertragen und dort gespeichert.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Google wird diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung im Allgemeinen verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten. Google wird Ihre IP-Adresse nicht mit anderen Daten von Google in Verbindung bringen. Durch die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck einverstanden.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Die gesammelten Daten können mit anderen Diensten innerhalb dieser Organisationen geteilt und zur Personalisierung von Anzeigen in ihrem eigenen Werbenetzwerk verwendet werden. Sie können die Benutzervereinbarungen dieser Organisationen auf ihren Websites lesen. Dort können Sie beispielsweise auch die Erfassung Ihrer persönlichen Daten verweigern <a href="https://tools.google.com/dlpage/gaoptout?hl=de" target="_blank">Hier finden Sie den Universal Analytics (Google Analytics-Blocker)</a>. Wir geben personenbezogene Daten nicht an andere Organisationen und Dienste weiter, die nicht in dieser Datenschutzrichtlinie aufgeführt sind. Die einzige Ausnahme ist die Übermittlung von Informationen gemäß den gesetzlichen Anforderungen der zur Durchführung solcher Handlungen befugten staatlichen Behörden.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Detaillierte Informationen zu Universal Analytics (Google Analytics) und Datenschutz finden Sie unter <a href="https://policies.google.com/privacy?hl=de" target="_blank">https://policies.google.com/privacy?hl=de</a>.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase; color: #fff;"><strong>Google Tag Manager</strong></p>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Google Tag Manager ist ein Tracking-Code-Verwaltungssystem für Websites. Sein Prinzip ist, dass nur ein Code ins Web gestellt wird und dann die einzelnen Messcodes über das Webinterface eingefügt werden.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Links zu anderen Seiten</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Unsere Website <a href="https://www.carboland.de/" target="_blank">www.carboland.de</a> kann Links zu anderen Websites enthalten, die nicht von uns betrieben werden. Für deren Inhalt sind wir nicht verantwortlich. Wir empfehlen Ihnen, die Datenschutzrichtlinien der von Ihnen besuchten Websites zu lesen, falls vorhanden.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Änderungen der Datenschutzrichtlinie</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Unsere Website <a href="https://www.carboland.de/" target="_blank">www.carboland.de</a> Sie können ihre Datenschutzrichtlinien von Zeit zu Zeit aktualisieren. Wir geben alle Änderungen bekannt, indem wir neue Datenschutzrichtlinien auf dieser Website veröffentlichen. Wir überwachen Gesetzesänderungen zum Schutz personenbezogener Daten in der Europäischen Union und in der Tschechischen Republik. Wenn Sie uns Ihre personenbezogenen Daten anvertraut haben, werden wir Sie über Änderungen der Datenschutzbestimmungen informieren. Wenn Ihre Kontaktdaten falsch eingegeben wurden, können wir Sie nicht kontaktieren.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Rückmeldung, Schlussbestimmungen</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Wenn Sie Fragen zur Datenschutzrichtlinie haben, wenden Sie sich bitte an den Webmaster <a href="https://www.carboland.de/" target="_blank">www.carboland.de</a>, über: <a href="mailto:info@carboland.de">info@carboland.de</a>, oder verwenden Sie das Kontaktformular im entsprechenden Abschnitt dieser Website. Wenn Sie dieser Datenschutzrichtlinie nicht zustimmen, dürfen Sie die Site Services nicht mehr nutzen <a href="https://www.carboland.de/" target="_blank">www.carboland.de</a>. In diesem Fall müssen Sie die Möglichkeit aufgeben, unsere Website zu besuchen.</p>
+<br/>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Die Ausübung der oben genannten Rechte und Verfahren schränkt Ihr Beschwerderecht bei der zuständigen Aufsichtsbehörde nicht ein. Dieses Recht können Sie insbesondere dann ausüben, wenn Sie der Ansicht sind, dass wir Ihre personenbezogenen Daten rechtswidrig oder gegen allgemein verbindliche Rechtsvorschriften verarbeiten. Die Stelle für die Bearbeitung von Kundenbeschwerden ist das Amt für den Schutz personenbezogener Daten mit Sitz: Pplk. Sochora 27, 170 00 Prag 7, Tschechische Republik, IČO: 70837627.</p>
+</div>
+</div>
+</div>
+</div>
+<br/>
+<div class="container pb_100">
+<div class="row">
+<div class="col-md-6 col-md-offset-3 text-center">
+<div class="heading-part">
+<h2 class="main_title mb_20 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">Wirksamkeit</h2>
+<p class="wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none; text-transform: uppercase;">Diese Datenschutzerklärung der Website <a href="https://www.carboland.de/" target="_blank">www.carboland.de</a> ist gültig und wirksam ab 14. Oktober 2020.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="footer bg-color ptb_100">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="footer-logo mb_20"><img src="./Carboland/Carboland-Logo-footer.png" alt="Carboland s.r.o. | Eleganz in jeder Faser." /></div>
+<div class="copyright-part mb_10 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;"><b>® Carboland s.r.o. 2020 | ELEGANZ IN JEDER FASER.</b></div>
+<div class="social_icon wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+<ul>
+<li><a href="https://www.facebook.com/Carboland" target="_blank" title="Facebook"><i class="fa fa-facebook border-icon rounded-icon"></i></a></li>
+<li><a href="https://www.instagram.com/carboland.official/" target="_blank" title="Instagram"><i class="fa fa-instagram border-icon rounded-icon"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCF_UbR3F0y5CRBLSahxBfKw?sub_confirmation=1" target="_blank" title="Youtube"><i class="fa fa-youtube border-icon rounded-icon"></i></a></li>
+</ul>
+<ul>
+<li><a href="https://www.carboland.sk/ochrana-osobnych-udajov" style="color: white;" title="Slowakische"><strong>SK</strong></a></li>
+<li><a href="https://www.carboland.cz/ochrana-osobnich-udaju" style="color: white;" title="Tschechische"><strong>CZ</strong></a></li>
+<li><a href="https://www.carboland.eu/privacy-policy" style="color: white;" title="Englische"><strong>EN</strong></a></li>
+<li><a href="https://www.carboland.ru/bezopasnost-i-garantiya-konfidentsialnosti" style="color: white;" title="Russische"><strong>RU</strong></a></li>
+<li><a style="color: #ffc107;" title="Deutsche"><strong>DE</strong></a></li>
+</ul>
+<br/>
+<div class="copyright-part mb_10 wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;"><a href="datenschutzerklarung" style="color: #ffc107; text-transform: uppercase;"><strong>Schutz personenbezogener Daten</strong></a>&nbsp;|&nbsp;<a href="nutzungsbedingungen" style="color: white; text-transform: uppercase;"><strong>Nutzungsbedingungen</strong></a><br/><a href="cookie-richtlinie" style="color: white; text-transform: uppercase;"><strong>Cookie-Richtlinie</strong></a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="./Carboland/jQuery_v3.1.1.min.js"></script>
+<script src="./Carboland/owl.carousel.min.js"></script>
+<script src="./Carboland/bootstrap.min.js"></script>
+<script src="./Carboland/isotope.pkgd.min.js"></script>
+<script src="./Carboland/letters-type.js"></script>
+<script src="./Carboland/custom.js"></script>
+<script src="./Carboland/menu.js"></script>
+<script src="./Carboland/particles.js"></script>
+<script src="./Carboland/app.js"></script>
+<script src="./Carboland/circle-progress.js"></script>
+<script src="./Carboland/circle-progress-examples.js"></script>
+<script src="./Carboland/js"></script>
+<script src="./Carboland/parallax.js"></script>
+<script src="./Carboland/wow.js"></script>
+<script src="./Carboland/mail.js"></script>
+</body></html>
